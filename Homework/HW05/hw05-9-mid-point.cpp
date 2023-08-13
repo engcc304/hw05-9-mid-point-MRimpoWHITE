@@ -43,7 +43,7 @@ int main(){
     scanf("%f %f" , &IpB , &IpB2);
     
     printf("Output:\n");
-    printf("Mid Point of A and B is ( %.1f, %.1f )", (IpA + IpB)/2 ,(IpA + IpB)/2 , (IpA1 + IpB2)/2);
+    printf("Mid Point of A and B is ( %.1f, %.1f )", (IpA + IpB)/2 , (IpA1 + IpB2)/2);
 
     return 0 ;
 
